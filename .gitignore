@@ -1,4 +1,8 @@
-*.txt
+tacotron*.txt
+fastspeech*.txt
+ground_truth.txt
+LJSpeech.txt
+AR_LVS_NEB_01_0001.txt
 *.wav
 *.pt
 *.WAVEGLOW
